@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".puppy_home">
+
+    <Button
+        android:id="@+id/findpuppy"
+        android:layout_width="260dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="273dp"
+        android:backgroundTint="#FF6D6D"
+        android:fontFamily="@font/alata"
+        android:gravity="center"
+        android:paddingStart="35dp"
+        android:text="@string/find_my_puppy"
+        android:textColor="@color/white"
+        android:textSize="17sp"
+        app:icon="@drawable/search"
+        app:iconSize="22dp"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="309dp" />
+
+    <Button
+        android:id="@+id/petclinic"
+        android:layout_width="261dp"
+        android:layout_height="61dp"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="317dp"
+        android:fontFamily="@font/alata"
+        android:paddingStart="35dp"
+        android:text="@string/pet_clinic_near_me"
+        android:textSize="17sp"
+        android:backgroundTint="#FF6D6D"
+        app:icon="@drawable/healthclinic"
+        app:iconSize="24dp"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="384dp" />
+</RelativeLayout>

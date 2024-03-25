@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IndianCanine Advisor</string>
+    <string name="logout">Logout</string>
+    <string name="contact_us">Contact us</string>
+    <string name="find_my_puppy">Find My puppy</string>
+    <string name="pet_clinic_near_me">Pet Clinic Near Me</string>
+    <string name="adult">Adult</string>
+    <string name="old">Old</string>
+    <string name="puppy">Puppy</string>
+    <string name="_1_select_puppy_age_type">1) Select Puppy age type :</string>
+    <string name="clam">Clam</string>
+    <string name="_2_what_type_of_lifestyle_looking">2) What type of lifestyle Looking :</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="small">Small</string>
+    <string name="_3_select_dog_size">3) Select Dog size :</string>
+    <string name="easy">Easy</string>
+    <string name="difficult">Difficult</string>
+    <string name="hard">Hard</string>
+    <string name="_4_select_the_trainability">4) Select the Train-ability :</string>
+    <string name="_5_select_dog_maintenance">5) Select Dog maintenance : </string>
+    <string name="_6_dog_baking_tendency_type">6) Dog Baking Tendency type :</string>
+    <string name="moderate">Moderate</string>
+    <string name="frequent">Frequent</string>
+    <string name="quiet">Quiet</string>
+    <string name="normal">Normal</string>
+    <string name="low">Low</string>
+    <string name="_7_select_dog_friendliness_level">7) Select Dog friendliness level:</string>
+    <string name="affectionate">Affectionate</string>
+    <string name="friendly">Friendly</string>
+    <string name="aloof">Aloof</string>
+</resources>
